@@ -44,16 +44,24 @@ En Android, la aplicación puede solicitar acceso a Internet, ubicación y notif
 
 ## 9. Conservación y seguridad
 
-Los datos locales permanecen en el dispositivo hasta que el usuario los modifica, borra los datos de la aplicación o desinstala la aplicación. Las publicaciones y datos comunitarios almacenados en Firebase se conservan durante el tiempo necesario para operar las funciones, gestionar publicaciones resueltas, seguridad y mantenimiento del servicio.
+Los datos locales permanecen en el dispositivo hasta que el usuario los modifica, borra sus datos desde la aplicación, Android elimina los datos de la aplicación o desinstala la aplicación. Las publicaciones y datos comunitarios almacenados en Firebase se conservan durante el tiempo necesario para operar las funciones, gestionar publicaciones resueltas, seguridad y mantenimiento del servicio.
 
-## 10. Responsabilidad del usuario al publicar
+## 10. Borrado de datos
+
+Del Camionero incluye la opción **Privacidad y datos > Borrar mis datos**. Esa acción elimina los datos locales de la aplicación y, cuando exista una identidad técnica anónima activa, intenta eliminar las publicaciones y datos comunitarios asociados a esa instalación antes de borrar dicha identidad.
+
+Las instrucciones públicas para borrar datos también están disponibles en:
+
+https://github.com/Sebas00012/Del-camionero-precios/blob/main/DELETE_DATA.md
+
+## 11. Responsabilidad del usuario al publicar
 
 El usuario debe evitar publicar información sensible que no sea necesaria para coordinar un viaje o una carga. La información que el usuario decide compartir voluntariamente, como su WhatsApp, puede ser vista por otros usuarios de Del Camionero dentro de la función correspondiente.
 
-## 11. Cambios a esta política
+## 12. Cambios a esta política
 
 Esta política puede actualizarse cuando cambien las funciones, los proveedores utilizados o los requisitos legales. La fecha de actualización se mostrará en esta página.
 
-## 12. Contacto
+## 13. Contacto
 
 Para consultas sobre privacidad, el usuario puede utilizar el correo de contacto del desarrollador publicado en la ficha oficial de Del Camionero en Google Play.
