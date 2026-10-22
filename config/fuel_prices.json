@@ -2,7 +2,7 @@
   "active": true,
   "fuelProduct": "Diesel",
   "referencePricePerLiter": 2354,
-  "stationPricePerLiter": 2286,
-  "updatedAtIso": "2026-10-21T23:20:15-03:00",
+  "stationPricePerLiter": 2285,
+  "updatedAtIso": "2026-10-21T23:44:55-03:00",
   "note": "El precio de referencia es interno y no se publica. El único precio visible es RefiPlus Energía YPF de la estación."
 }
